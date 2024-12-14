@@ -6,7 +6,7 @@
 	url = ../vst3_cmake
 [submodule "doc"]
 	path = doc
-	url = ../vst3_doc
+	url = https://github.com/steinbergmedia/vst3_doc.git
 [submodule "pluginterfaces"]
 	path = pluginterfaces
 	url = ../vst3_pluginterfaces
@@ -15,7 +15,7 @@
 	url = ../vst3_public_sdk
 [submodule "tutorials"]
 	path = tutorials
-	url = ../vst3_tutorials
+	url = https://github.com/steinbergmedia/vst3_tutorials.git
 [submodule "vstgui4"]
 	path = vstgui4
-	url = ../vstgui
+	url = https://github.com/steinbergmedia/vstgui.git
